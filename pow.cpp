@@ -1,5 +1,6 @@
 #include<iostream>
 #include<algorithm>
+//修改内容2
 using namespace std;
 const int MAXN=1000005,p=998244353,g=3,invg=332748118;
 int n=0,limit=1,l,r[MAXN]={};
